@@ -1,0 +1,21 @@
+.h1 {
+    color: red;
+}
+
+.h2 {
+    color: blue;
+}
+
+#grandParagraphe {
+    font-size: xx-large;
+    color: black;
+    background-color: red;
+}
+
+#h4 {
+text-decoration:  underline;  
+}
+
+li {
+    font-style: italic;
+}
